@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Jekyll to Create a Blog
-date: 2016-04-15
+date: 2016-05-15
 ---
 <p class="meta">{{ page.date | date_to_string }} - Singapore </p>
 
